@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@vercel/ncc": "^0.28.3",
+    "@vercel/ncc": "^0.28.4",
     "superagent": "^6.1.0"
   }
 }
