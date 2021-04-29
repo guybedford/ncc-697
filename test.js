@@ -1,4 +1,4 @@
-const ncc = require('../dist/ncc/index.js');
+const ncc = require('@vercel/ncc');
 const path = require('path');
 const { writeFile } = require('fs');
 
